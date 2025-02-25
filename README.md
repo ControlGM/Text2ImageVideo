@@ -3,7 +3,9 @@
 ## Schedule
 | Paper | Publisher | Reader | Date | Repo | Notes |
 | ----- | --------- | ------ | ---- | ---- | ----- |
-| [Paper Name](https://link.to.paper) | arXiv | Your Name | MM.DD.YYYY | [YourRepoName](https://link.to.your.repo) | if any |
+| [CogVideoX](https://arxiv.org/abs/2408.06072) | arXiv | Mingzhe Huang | Mar.4.2025 | [YourRepoName](https://link.to.your.repo) | |
+| [T2I Survey](https://arxiv.org/abs/2403.04279) | arXiv | Ruoxuan Li | Mar.25.2025 | [YourRepoName](https://link.to.your.repo) | |
+| [T2V Survey](https://arxiv.org/abs/2403.05131) | arXiv | Zhizhong Kong | Mar.25.2025 | [YourRepoName](https://link.to.your.repo) | |
 | ... | ... | ... | ... | ... | ... |
 
 ## Members
