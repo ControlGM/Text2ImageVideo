@@ -15,6 +15,7 @@
 - [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039)
 - [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
 - [Visual Generation without Guidance](https://arxiv.org/abs/2501.15420)
+- [ControlVideo: Conditional Control for One-shot Text-driven Video Editing and Beyond](https://arxiv.org/abs/2305.17098)
 
 ## Other Resources
 
