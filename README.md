@@ -14,6 +14,7 @@
 - [Video-Infinity: Distributed Long Video Generation](https://arxiv.org/abs/2406.16260)
 - [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039)
 - [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
+- [Visual Generation without Guidance](https://arxiv.org/abs/2501.15420)
 
 ## Other Resources
 
